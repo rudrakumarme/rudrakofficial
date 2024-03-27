@@ -1,40 +1,34 @@
-# 👋 Hello, I'm Rudra Kumar!
+# Hi, I'm Rudra Kumar 👋
 
-Welcome to my GitHub profile, @rudrakofficial. I'm the founder and lead developer at [ClickRays.com](https://clickrays.com), where we specialize in Digital Marketing, Web & Mobile App Development, AI-Powered Solutions, and much more. My passion lies in leveraging technology to drive business growth and innovation.
+## 🚀 About Me
+I'm a passionate **Cloud Engineer & eCommerce Developer** specializing in creating scalable web solutions. With a strong background in technologies like OpenCart and Shopify, I aim to build efficient, user-centric online stores and cloud architectures. Currently, I'm expanding my expertise into broader software and database development domains, always eager to explore new technologies and challenges.
 
-## 👀 What I'm interested in:
-- Digital Marketing strategies and innovations.
-- Developing custom, scalable web and mobile applications.
-- Implementing AI to solve real-world business problems.
-- Graphic design and creative content creation.
+## 🛠 Skills
+- **Cloud Engineering**: Experienced in designing and implementing robust cloud solutions.
+- **eCommerce Development**: Proficient with OpenCart, Shopify, and custom eCommerce solutions.
+- **Web Development**: Skilled in HTML, CSS, JavaScript, and various web development frameworks.
+- **Database Management**: Familiar with SQL and NoSQL database technologies.
+- **Continuous Learning**: Actively learning more about software architecture, design patterns, and best practices.
 
-## 🌱 I’m currently learning:
-- Advanced techniques in SEO and Local Business Optimization.
-- The latest trends in iOS and Android app development.
-- Deep learning and AI algorithms for personalized user experiences.
+## 🔭 Projects
+Here are a few highlights of my work:
 
-## 💞️ I’m looking to collaborate on:
-- Projects focusing on digital marketing and SEO optimization.
-- Web and mobile app development, especially in hybrid and native platforms.
-- AI-driven solutions to enhance sales and reporting.
-- Creative design and multimedia content projects.
+- **OpenCart Extension for Enhanced Checkout**: Improved checkout process, resulting in a 30% increase in conversion rates. (Link to project)
+- **Shopify Store for Local Artisans**: Developed a fully functional Shopify store, showcasing products from local artisans, enhancing their market reach. (Link to project)
+- **Cloud Migration Project**: Led a team to successfully migrate a mid-sized company's infrastructure to the cloud, significantly reducing operational costs. (Link to project)
+
+## 🌱 I’m currently learning ...
+- Advanced software architecture, focusing on microservices and serverless architectures.
+- Machine Learning basics, exploring how AI can enhance eCommerce experiences.
+
+## 💬 Ask me about ...
+Feel free to reach out if you have any questions or need advice on cloud engineering, eCommerce development, or transitioning into tech from another field.
 
 ## 📫 How to reach me:
-- LinkedIn: [Rudra Kumar](https://linkedin.com/in/rudrakumar)
-- Email: contact@clickrays.com
-- Twitter: [@rudrakofficial](https://twitter.com/rudrakofficial)
+- **Email**: [info@rudrakumar.me]
+- **LinkedIn**: [RudraKumarMe](https://www.linkedin.com/in/rudrakumarme/)
+- **Twitter**: [@RudraKumarMe](https://twitter.com/rudrakumarme)
 
-## 😄 Pronouns:
-He/Him
+## 😄 Pronouns: He/Him
 
-## ⚡ Fun fact:
-When I'm not coding or strategizing for digital marketing, you can find me exploring the great outdoors or dabbling in photography. I believe in living life to the fullest and finding creative inspiration in every moment.
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you're interested in collaborating on a project or just want to say hi.
-
-<!---
-rudrakofficial/rudrakofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚡ Fun fact: I'm an avid reader and enjoy exploring the intersection of technology and sustainability in my free time.
